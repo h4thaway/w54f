@@ -26,7 +26,7 @@ package math
 // Range reduction is from three intervals into the interval from zero to 0.66.
 // The approximant uses a rational function of degree 4/5 of the form
 // x + x**3 P(x)/Q(x).
-//
+//JKMCL093039161142
 // ACCURACY:
 //                      Relative error:
 // arithmetic   domain    # trials  peak     rms
